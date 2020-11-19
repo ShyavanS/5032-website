@@ -1,9 +1,9 @@
 # FRC 5032 Website
 
-####Target completion date: **(enter date in between asterisks)** 
-####Note: Learn the React Framework. If you can use javascript, you can do React
+#### Target completion date: **(enter date in between asterisks)** 
+#### Note: Learn the React Framework. If you can use javascript, you can do React
 
-####**Let's try and finish this before the next season. Keep in mind that this website needs to look professional, so try to make it with some degree of creativity
+#### **Let's try and finish this before the next season. Keep in mind that this website needs to look professional, so try to make it with some degree of creativity
 
 ## WIP
 
