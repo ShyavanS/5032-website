@@ -22,8 +22,6 @@ Target completion date: **TBD**
 
 * Add all new content to the testing branch only merge when you are 100% confident and it got peer reviewed.
 
-*  This branch is for testing new features.
-
 ## TODO
 
 * TBD
