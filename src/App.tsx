@@ -1,19 +1,16 @@
 import React from 'react';
-import logo from './Falcons.svg';
 import './App.css';
 import testpage from './testpage';
+import Home from './Home';
+import NavBar from './Navbar';
 import {Route} from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
+      <NavBar/> 
+      <Route exact path="/" component={Home} />
       <Route exact path="/testpage" component={testpage} />
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Coming Soon!
-        </p>
-      </header>
     </div>
   );
 }
