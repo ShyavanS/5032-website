@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './Falcons.svg';
-import './Navbar.css';
+import './pages/Navbar.css';
 
 function Home(){
   return(
