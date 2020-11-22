@@ -1,8 +1,20 @@
 .description{
-  text-align: left;
+  text-align: justify;
   margin: 1rem;
 }
 
 .ruler{
   border: 1px solid black;
+}
+
+.about-logo{
+  float: left;
+  width: 120px;
+  height: 120px;
+}
+
+.Title{
+  position: relative;
+  top: 18px;
+  left: -70px;
 }
