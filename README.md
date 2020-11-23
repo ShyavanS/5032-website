@@ -20,7 +20,7 @@ Target completion date: **TBD**
 
 * If you are going to contribute keep the styling and color scheme consistent.
 
-* Use camelCase for file names. PascalCase for Everything else. Keep it consitent please.
+* File names must be all lowercase and may include underscores (_) or dashes (-), but no additional punctuation. PascalCase for Everything else. Keep it consitent please.
 
 ## TODO
 
