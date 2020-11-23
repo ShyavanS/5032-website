@@ -1,6 +1,6 @@
 import React from 'react';
-import './About.css';
-import logo from '../Falcons.svg'
+import '../styles/about.css';
+import logo from '/mnt/d/Document/5032-website/src/Falcons.svg'
 
 function About(){
   return(
