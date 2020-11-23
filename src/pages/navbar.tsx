@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <div className="topnav" id="myTopnav">
       <a href="/" className="active">Home</a>
-      <a href="#news">News</a>
+      {/* <a href="#news">News</a> */}
       <a href="/sponsors">Sponsors</a>
       <div className="dropdown">
         <button className="dropbtn">About
@@ -13,8 +13,8 @@ function Navbar() {
         </button>
         <div className="dropdown-content">
           <a href="/about-our-team">Our Team</a>
-          <a href="#">Link 2</a>
-          <a href="#">Link 3</a>
+          <a href="/who-we-are">Who we are</a>
+          <a href="/history">History</a>
         </div>
       </div>
     </div>
