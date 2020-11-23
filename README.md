@@ -26,7 +26,7 @@ Target completion date: **TBD**
 
 ### TODO
 
-- []  Make Pages `Note: these pages dont need content in them just yet. Just create them and check them off the list. `
+- [ ]  Make Pages `Note: these pages dont need content in them just yet. Just create them and check them off the list. `
     - [x] Home
     - [x] About
         - [ ] About our team
