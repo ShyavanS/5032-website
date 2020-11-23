@@ -4,14 +4,20 @@ import '../styles/about.css';
 function About(){
   return(
     <div className="about">
-      <h1 className="Title">About Us</h1>
-      <hr className="ruler"></hr>
+      <h1 className="Title">
+        About Us
+      </h1>
+      <hr className="ruler">
+      </hr>
       <p className="description">
-        5032 is a robotics team based in Mississauga, Ontario, Canada, affiliated with Meadowvale Secondary School.
-        Here at 5032, we aim to bring our members into the world of robotics and teach them the fundamental skills 
-        they need to master robotics, contributing to the team and putting in the hard work to create a robot fit for the FIRST 
-        Robotics Competition, hosted by universities across the world.
-        </p>
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+        sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
+        sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+        Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit 
+        amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+        sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
+        sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+      </p>
     </div>
   );
 }
