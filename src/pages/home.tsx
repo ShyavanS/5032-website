@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../Falcons.svg';
+import logo from '../assets/Falcons.svg';
 import '../styles/navbar.css';
 
 function Home(){
