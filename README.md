@@ -28,10 +28,10 @@ Target completion date: **TBD**
 
 - [ ]  Make Pages `Note: these pages dont need content in them just yet. Just create them and check them off the list. `
     - [x] Home
-    - [ ] About
+    - [x] About
         - [x] About our team
-        - [ ] Who we are
-        - [ ] History
+        - [x] Who we are
+        - [x] History
     - [x] Sponsors
     - [ ] Updates
         - [ ] Calendar
