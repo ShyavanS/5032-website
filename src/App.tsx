@@ -19,7 +19,6 @@ function App() {
       <Route exact path= '/about-our-team' component={AboutOurTeam}/>
       <Route exact path="/who-we-are" component={WhoWeAre}/>
       <Route exact path="history" component={History}/>
-      {/* <Route exact path="/about" component={About} /> ignore this */}
       <Route exact path= "/documents" component={Documents} />
       <Footer/>
     </div>
