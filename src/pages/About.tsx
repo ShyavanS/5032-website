@@ -1,11 +1,9 @@
 import React from 'react';
 import '../styles/about.css';
-import logo from '/mnt/d/Document/5032-website/src/Falcons.svg'
 
 function About(){
   return(
     <div className="about">
-      <img src={logo} className='about-logo'/>
       <h1 className="Title">About Us</h1>
       <hr className="ruler"></hr>
       <p className="description">
