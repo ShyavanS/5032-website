@@ -24,6 +24,20 @@ Target completion date: **TBD**
 
 * Use template text till buissness gives us proper text.
 
-## TODO
+### TODO
 
-* TBD
+- []  Make Pages `Note: these pages dont need content in them just yet. Just create them and check them off the list. `
+    - [x] Home
+    - [x] About
+        - [] About our team
+        - [] Who we are
+        - [] History
+    - [] Sponsors
+    - [] Updates
+        - [] Calendar
+        - [] Announcements 
+        - [] Gallery
+    - [] Documents
+    - [] Login 
+
+
