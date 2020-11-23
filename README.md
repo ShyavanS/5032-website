@@ -20,6 +20,8 @@ Target completion date: **TBD**
 
 * If you are going to contribute keep the styling and color scheme consistent.
 
+* Use camelCase for file names. PascalCase for Everything else. Keep it consitent please.
+
 ## TODO
 
 * TBD
