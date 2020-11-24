@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
-function WhoWeAre(){
-  return(
-    <div className="WhoWeAre">
+function WhoWeAre() {
+  return (
+    <div className='WhoWeAre'>
       <h1>Lorem ipsum</h1>
     </div>
   );

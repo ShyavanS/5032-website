@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
-function History(){
-  return(
-    <div className="History">
+function History() {
+  return (
+    <div className='History'>
       <h1>Lorem ipsum</h1>
     </div>
   );

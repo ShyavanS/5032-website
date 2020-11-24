@@ -16,9 +16,9 @@ a {
   text-decoration: none;
   color: #fff;
 }
-p > a:hover{
+p > a:hover {
   color: #d9d9d9;
-  text-decoration:  underline;
+  text-decoration: underline;
 }
 h1,
 h2,
@@ -26,7 +26,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin:  1% 0 1% 0;
+  margin: 1% 0 1% 0;
 }
 ._12 {
   font-size: 1.2em;
@@ -35,12 +35,12 @@ h6 {
   font-size: 1.4em;
 }
 ul {
-  padding:0;
+  padding: 0;
   list-style: none;
 }
 .footer-social-icons {
   width: 350px;
-  display:block;
+  display: block;
   margin: 0 auto;
 }
 .social-icon {
@@ -59,12 +59,12 @@ ul.social-icons {
   text-decoration: none;
 }
 .fa-instagram {
-  padding:7.5px 11.5px;
-  -o-transition:.5s;
-  -ms-transition:.5s;
-  -moz-transition:.5s;
-  -webkit-transition:.5s;
-  transition: .5s;
+  padding: 7.5px 11.5px;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
   background-color: #322f30;
 }
 .fa-instagram:hover {

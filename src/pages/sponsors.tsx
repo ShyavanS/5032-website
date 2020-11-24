@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
-function Sponsors(){
-  return(
-    <div className="Sponsors">
+function Sponsors() {
+  return (
+    <div className='Sponsors'>
       <h1>Lorem ipsum</h1>
     </div>
   );
