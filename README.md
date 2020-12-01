@@ -22,7 +22,7 @@ Target completion date: **TBD**
 
 * File names must be all lowercase and may include underscores (_) or dashes (-), but no additional punctuation; This doesn't apply to classes. Use PascalCase for everything else. Keep it consistent, please. 
 
-* Use template text till buissness gives us proper paragraph.
+* Use template text till buissness gives us proper text.
 
 ### TODO
 
