@@ -43,9 +43,9 @@ Final release: **Aug 31st**
  
  ### What will go on each page
  - [ ] Homepage
-    - [ ]Picture of the team
-    - [ ]Blurb about what FIRST is
-    - [ ]Countdown to events
+    - [ ] Picture of the team
+    - [ ] Blurb about what FIRST is
+    - [ ] Countdown to events
     - [ ] Social media in the footer
     
 - [ ] About our team
