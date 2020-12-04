@@ -20,6 +20,17 @@ function Navbar() {
           <a href='/history'>History</a>
         </div>
       </div>
+      <div className='dropdown'>
+        <button className='dropbtn'>
+          Updates
+          <i className='fa fa-caret-down'></i>
+        </button>
+        <div className='dropdown-content'>
+          <a href='/calendar'>Calendar</a>
+          <a href='/who-we-are'>Announcements</a>
+          <a href='/history'>Gallery</a>
+        </div>
+      </div>
     </div>
   );
 }
