@@ -71,5 +71,5 @@ Final release: **Aug 31st**
 - [ ] About
 - [ ] Sponsors
 - [ ] Calendar
-- [ ]Gallery
+-  [ ]Gallery
 
