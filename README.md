@@ -12,7 +12,9 @@ To run a test build of the website run: `npm start`. This will launch a build of
 
 ## Important Information
 
-Target completion date: **TBD**
+Content must be completed by **Dec 18**
+First release: **Jan 29th**
+Final release: **Aug 31st**
 
 ### Notes
 
@@ -34,9 +36,40 @@ Target completion date: **TBD**
         - [x] History
     - [x] Sponsors
     - [ ] Updates
-        - [ ] Calendar
+        - [x] Calendar
         - [ ] Announcements 
         - [ ] Gallery
     - [x] Documents
  
+ ### What will go on each page
+ - Homepage
+    -Picture of the team
+    -Blurb about what FIRST is
+    -Countdown to events
+    -Social media in the footer
+    
+-About our team
+    -Write about mentors, members etc.
+
+-History
+    -Timeline
+    
+-Sponsors
+    -Sponsorship tiers
+
+-Calendar
+    -Calendar of the year
+    
+-Gallery
+    -Photos from the google drive
+
+-Announcements
+    -News about the team
+
+###Things that need to be done by Dec 18
+-Homepage
+-About
+-Sponsors
+-Calendar
+-Gallery
 
