@@ -28,17 +28,17 @@ Final release: **Aug 31st**
 
 ### TODO
 
-- [ ]  Make Pages `Note: these pages dont need content in them just yet. Just create them and check them off the list. `
+- [x]  Make Pages `Note: these pages dont need content in them just yet. Just create them and check them off the list. `
     - [x] Home
     - [x] About
         - [x] About our team
         - [x] Who we are
         - [x] History
     - [x] Sponsors
-    - [ ] Updates
+    - [x] Updates
         - [x] Calendar
-        - [ ] Announcements 
-        - [ ] Gallery
+        - [x] Announcements 
+        - [x] Gallery
     - [x] Documents
  
  ### What will go on each page

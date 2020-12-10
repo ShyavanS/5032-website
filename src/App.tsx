@@ -9,6 +9,8 @@ import WhoWeAre from "./pages/who-we-are";
 import Footer from "./pages/footer";
 import Documents from "./pages/documents";
 import Calendar from "./pages/calendar";
+import Announcements from "./pages/announcements";
+import Gallery from "./pages/gallery";
 import { Route } from "react-router-dom";
 
 function App() {
@@ -22,6 +24,8 @@ function App() {
       <Route exact path='/history' component={History} />
       <Route exact path='/documents' component={Documents} />
       <Route exact path='/calendar' component={Calendar} />
+      <Route exact path='/announcements' compotent={Announcements} />
+      <Route exact path='/gallery' component={Gallery} />
       <Footer />
     </div>
   );

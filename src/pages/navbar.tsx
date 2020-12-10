@@ -27,8 +27,8 @@ function Navbar() {
         </button>
         <div className='dropdown-content'>
           <a href='/calendar'>Calendar</a>
-          <a href='/who-we-are'>Announcements</a>
-          <a href='/history'>Gallery</a>
+          <a href='/announcements'>Announcements</a>
+          <a href='/gallery'>Gallery</a>
         </div>
       </div>
     </div>
