@@ -28,20 +28,7 @@ Final release: **Aug 31st**
 
 ### TODO
 
-- [x]  Make Pages `Note: these pages dont need content in them just yet. Just create them and check them off the list. `
-    - [x] Home
-    - [x] About
-        - [x] About our team
-        - [x] Who we are
-        - [x] History
-    - [x] Sponsors
-    - [x] Updates
-        - [x] Calendar
-        - [x] Announcements 
-        - [x] Gallery
-    - [x] Documents
- 
- ### What will go on each page
+ #### What will go on each page
  - [ ] Homepage
     - [ ] Picture of the team
     - [ ] Blurb about what FIRST is
@@ -66,10 +53,12 @@ Final release: **Aug 31st**
 - [ ] Announcements
     - [ ] News about the team
 
-###Things that need to be done by Dec 18
+#### Things that need to be done by Dec 18
 - [ ] Homepage
 - [ ] About
 - [ ] Sponsors
 - [ ] Calendar
 - [ ] Gallery
 
+#### Completed
+- [x]  Make Pages 
