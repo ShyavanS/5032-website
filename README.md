@@ -2,7 +2,7 @@
 
 ## WIP
 
-This website is currently a work in progress. It may not look visual appealing or work as attended.
+This website is currently a work in progress. It may not look visually appealing or work as attended.
 
 ## How to run
 
@@ -12,7 +12,7 @@ To run a test build of the website run: `npm start`. This will launch a build of
 
 ## Important Information
 
-Content must be completed by **Dec 18**
+Content must be completed by **Dec 18th**
 First release: **Jan 29th**
 Final release: **Aug 31st**
 
@@ -57,7 +57,7 @@ Final release: **Aug 31st**
 - [ ] Homepage
 - [ ] About
 - [ ] Sponsors
-- [ ] Calendar
+- [x] Calendar
 - [ ] Gallery
 
 #### Completed
