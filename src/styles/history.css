@@ -1,0 +1,12 @@
+/* CSS Formatting for Bulleted List */
+
+li {
+    display: list-item;
+    list-style-type: circle;
+    text-align: left;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0em;
+    margin-right: 0;
+    padding-left: 40px;
+}
