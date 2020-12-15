@@ -31,34 +31,41 @@ Final release: **Aug 31st**
 #### What will go on each page
 
 - [ ] Homepage
-  - [ ] Picture of the team
-  - [ ] Blurb about what FIRST is
+
+  - [x] Picture of the team
+  - [x] Blurb about what FIRST is
   - [ ] Countdown to events
   - [x] Social media in the footer
+
 - [x] About our team
 
   - [x] Write about mentors, members etc.
 
 - [ ] History
+
   - [ ] Timeline
+
 - [x] Sponsors
 
   - [x] Sponsorship tiers
 
 - [x] Calendar
+
   - [x] Calendar of the year
+
 - [ ] Gallery
 
   - [ ] Photos from the google drive
 
 - [x] Announcements
+
   - [x] News about the team
 
 #### Things that need to be done by Dec 18
 
 - [ ] Homepage
-- [ ] About
-- [ ] Sponsors
+- [x] About
+- [x] Sponsors
 - [x] Calendar
 - [ ] Gallery
 
