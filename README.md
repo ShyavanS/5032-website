@@ -34,25 +34,25 @@ Final release: **Aug 31st**
   - [ ] Picture of the team
   - [ ] Blurb about what FIRST is
   - [ ] Countdown to events
-  - [ ] Social media in the footer
-- [ ] About our team
+  - [x] Social media in the footer
+- [x] About our team
 
-  - [ ] Write about mentors, members etc.
+  - [x] Write about mentors, members etc.
 
 - [ ] History
   - [ ] Timeline
-- [ ] Sponsors
+- [x] Sponsors
 
-  - [ ] Sponsorship tiers
+  - [x] Sponsorship tiers
 
-- [ ] Calendar
-  - [ ] Calendar of the year
+- [x] Calendar
+  - [x] Calendar of the year
 - [ ] Gallery
 
   - [ ] Photos from the google drive
 
-- [ ] Announcements
-  - [ ] News about the team
+- [x] Announcements
+  - [x] News about the team
 
 #### Things that need to be done by Dec 18
 
