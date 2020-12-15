@@ -1,7 +1,7 @@
 import React from "react";
 
-function Announcements(){
-  return(
+function Announcements() {
+  return (
     <h1>Announcements</h1>
   );
 }

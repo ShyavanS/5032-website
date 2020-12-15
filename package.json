@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fullcalendar/google-calendar": "^5.4.0",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.1.2",
     "@testing-library/user-event": "^12.2.2",
@@ -12,6 +13,7 @@
     "@types/react-dom": "^16.9.9",
     "@types/react-router-dom": "^5.1.6",
     "autoprefixer": "^10.0.2",
+    "fullcalendar": "^5.4.0",
     "mdbreact": "^4.27.0",
     "postcss": "^8.1.10",
     "react": "^17.0.1",

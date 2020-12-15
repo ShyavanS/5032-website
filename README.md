@@ -18,42 +18,44 @@ Final release: **Aug 31st**
 
 ### Notes
 
-* Try to know at least the basics of React before contributing its not that hard to learn and shouldn't take long.
+- Try to know at least the basics of React before contributing its not that hard to learn and shouldn't take long.
 
-* If you are going to contribute keep the styling and color scheme consistent.
+- If you are going to contribute keep the styling and color scheme consistent.
 
-* File names must be all lowercase and may include underscores (_) or dashes (-), but no additional punctuation; This doesn't apply to classes. Use PascalCase for everything else. Keep it consistent, please. 
+- File names must be all lowercase and may include underscores (\_) or dashes (-), but no additional punctuation; This doesn't apply to classes. Use PascalCase for everything else. Keep it consistent, please.
 
-* Use template text till buissness gives us proper text.
+- Use template text till buissness gives us proper text.
 
 ### TODO
 
- #### What will go on each page
- - [ ] Homepage
-    - [ ] Picture of the team
-    - [ ] Blurb about what FIRST is
-    - [ ] Countdown to events
-    - [ ] Social media in the footer
-    
+#### What will go on each page
+
+- [ ] Homepage
+  - [ ] Picture of the team
+  - [ ] Blurb about what FIRST is
+  - [ ] Countdown to events
+  - [ ] Social media in the footer
 - [ ] About our team
+
   - [ ] Write about mentors, members etc.
 
 - [ ] History
-    - [ ] Timeline
-    
+  - [ ] Timeline
 - [ ] Sponsors
-    - [ ] Sponsorship tiers
+
+  - [ ] Sponsorship tiers
 
 - [ ] Calendar
-    - [ ] Calendar of the year
-    
+  - [ ] Calendar of the year
 - [ ] Gallery
-    - [ ] Photos from the google drive
+
+  - [ ] Photos from the google drive
 
 - [ ] Announcements
-    - [ ] News about the team
+  - [ ] News about the team
 
 #### Things that need to be done by Dec 18
+
 - [ ] Homepage
 - [ ] About
 - [ ] Sponsors
@@ -61,4 +63,5 @@ Final release: **Aug 31st**
 - [ ] Gallery
 
 #### Completed
-- [x]  Make Pages 
+
+- [x] Make Pages

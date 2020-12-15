@@ -16,48 +16,54 @@ a {
   text-decoration: none;
   color: #fff;
 }
-p > a:hover {
+
+p>a:hover {
   color: #d9d9d9;
   text-decoration: underline;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+
+h1, h2, h3, h4, h5, h6 {
   margin: 1% 0 1% 0;
 }
+
 ._12 {
   font-size: 1.2em;
 }
+
 ._14 {
   font-size: 1.4em;
 }
+
 ul {
   padding: 0;
   list-style: none;
 }
+
 .footer-social-icons {
   width: 350px;
   display: block;
   margin: 0 auto;
 }
+
 .social-icon {
   color: #fff;
 }
+
 ul.social-icons {
   margin-top: 10px;
 }
+
 .social-icons li {
   vertical-align: top;
   display: inline;
   height: 100px;
 }
+
 .social-icons a {
   color: #fff;
   text-decoration: none;
 }
+
 .fa-instagram {
   padding: 7.5px 11.5px;
   -o-transition: 0.5s;
@@ -67,6 +73,7 @@ ul.social-icons {
   transition: 0.5s;
   background-color: #322f30;
 }
+
 .fa-instagram:hover {
   background: linear-gradient(to right, #8a3ab9, #e95950, #bc2a8d);
 }
