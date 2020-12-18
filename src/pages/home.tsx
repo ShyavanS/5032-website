@@ -1,13 +1,9 @@
 import React from "react";
-<<<<<<< HEAD
 import logo from "../assets/logo.svg";
 import "../components/navbar.css";
 
-=======
-import "../styles/navbar.css";
-import logo from "../assets/logo.svg";
 //import team from "../assets/20200308_181327.jpg";
->>>>>>> 89ac1d7dc098d21ecf75c422fa0e5d53a8b34ebd
+
 function Home() {
   return (
     <div className='Home'>
