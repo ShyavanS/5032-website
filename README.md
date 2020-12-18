@@ -12,7 +12,6 @@ To run a test build of the website run: `npm start`. This will launch a build of
 
 ## Important Information
 
-Content must be completed by **Dec 18th**
 First release: **Jan 29th**
 Final release: **Aug 31st**
 

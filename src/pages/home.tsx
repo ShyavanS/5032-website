@@ -1,9 +1,10 @@
 import React from "react";
-import "../styles/navbar.css";
 import logo from "../assets/logo.svg";
+import "../components/navbar.css";
+
 //import team from "../assets/20200308_181327.jpg";
 
-function Home(): JSX.Element {
+function Home() {
   return (
     <div className='Home'>
       <header className='App-header'>
