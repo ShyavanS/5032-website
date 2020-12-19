@@ -60,7 +60,7 @@ Final release: **Aug 31st**
 
   - [x] News about the team
 
-#### Things that need to be done by Dec 18
+#### Things that need to be done by Jan 4th
 
 - [ ] Homepage
 - [x] About

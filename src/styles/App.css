@@ -14,11 +14,11 @@
 }
 
 .App-header {
-  background: #283048;
+  background: #0d1d45;
   /* fallback for old browsers */
-  background: -webkit-linear-gradient( to right, #636dd6 0%, #63a6d6 35%, #1c2d4b 100%);
+  background: -webkit-linear-gradient( to right, #44256a 0%, #5894bf 35%, #0d1d45 100%);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #636dd6 0%, #63a6d6 35%, #1c2d4b 100%);
+  background: linear-gradient(to right, #0d1d45 30%, #5894bf 200%);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
