@@ -24,7 +24,7 @@ function App() {
       <Route exact path='/history' component={History} />
       <Route exact path='/documents' component={Documents} />
       <Route exact path='/calendar' component={Calendar} />
-      <Route exact path='/announcements' compotent={Announcements} />
+      <Route exact path='/announcements' component={Announcements} />
       <Route exact path='/gallery' component={Gallery} />
       <Footer />
     </div>

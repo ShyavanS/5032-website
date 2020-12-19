@@ -18,6 +18,10 @@ function WhoWeAre(): JSX.Element {
       <p></p>
       <br></br>
       <p></p>
+      <br></br>
+      <p></p>
+      <br></br>
+      <p></p>
     </div>
   );
 }

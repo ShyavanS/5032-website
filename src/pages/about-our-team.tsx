@@ -52,6 +52,8 @@ function About(): JSX.Element {
       <br></br>
       <p></p>
       <br></br>
+      <p></p>
+      <br></br>
     </div>
   );
 }
