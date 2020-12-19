@@ -16,7 +16,7 @@
 .App-header {
   background: #0d1d45;
   /* fallback for old browsers */
-  background: -webkit-linear-gradient( to right, #44256a 0%, #5894bf 35%, #0d1d45 100%);
+  background: -webkit-linear-gradient(to right, #0d1d45 30%, #5894bf 200%);
   /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #0d1d45 30%, #5894bf 200%);
   min-height: 100vh;
@@ -25,5 +25,5 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: black;
+  color: #ffffff;
 }
