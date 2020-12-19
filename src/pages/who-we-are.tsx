@@ -1,8 +1,8 @@
 import React from "react";
-import mech from "../assets/IMG_20200302_004453_540.jpg";
-import cap from "../assets/IMG_20191126_130032_153.jpg";
-import bus from "../assets/IMG_20201211_170731006.jpg";
-import prog from "../assets/IMG-1447.jpg";
+import mech from "../assets/mechlead.jpg";
+import cap from "../assets/teamcap.jpg";
+import bus from "../assets/buslead.jpg";
+import prog from "../assets/proglead.jpg";
 
 function WhoWeAre(): JSX.Element {
   return (
