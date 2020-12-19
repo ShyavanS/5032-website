@@ -26,6 +26,8 @@ function Home() {
       <p></p>
       <br></br>
       <p></p>
+      <br></br>
+      <p></p>
     </div>
   );
 }
