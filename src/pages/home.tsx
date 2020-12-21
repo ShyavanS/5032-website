@@ -1,9 +1,7 @@
 import React from "react";
 import logo from "../assets/logo.svg";
 import "../components/navbar.css";
-import team from "../assets/teamphoto.jpg"
-
-//import team from "../assets/20200308_181327.jpg";
+//import team from "../assets/teamphoto.jpg"
 
 function Home() {
   return (
@@ -12,7 +10,7 @@ function Home() {
         <img src={logo} className='App-logo' alt='logo' />
         <p>Coming Soon!</p>
       </header>
-      <h1>Team 5032</h1>
+      {/*<h1>Team 5032</h1>
       <img src={team} width="50%" alt="The Team"></img>
       <h2>About FIRST</h2>
       <p>Replace this blurb later with one that isn't copy paste from FIRST site</p>
@@ -27,7 +25,7 @@ function Home() {
       <br></br>
       <p></p>
       <br></br>
-      <p></p>
+      <p></p>*/}
     </div>
   );
 }
