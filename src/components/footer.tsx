@@ -21,6 +21,15 @@ function Footer() {
               </a>
               @frc5032
             </li>
+            <li>
+              <a
+                href='https://twitter.com/frc5032'
+                className='social-icon'
+              >
+                <i className='fa fa-twitter'></i>
+              </a>
+              @FRC5032
+            </li>
           </ul>
         </div>
       </footer>

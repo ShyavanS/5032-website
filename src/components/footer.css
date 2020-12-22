@@ -77,3 +77,17 @@ ul.social-icons {
 .fa-instagram:hover {
   background: linear-gradient(to right, #8a3ab9, #e95950, #bc2a8d);
 }
+
+.fa-twitter {
+  padding: 7.5px 11.5px;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  background-color: #322f30;
+}
+
+.fa-twitter:hover {
+  background: #1DA1F2
+}
