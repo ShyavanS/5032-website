@@ -2,7 +2,7 @@ import React from "react";
 import shoot_pro from "../assets/shooter_proto.jpg";
 import eat_pizza from "../assets/eating_pizza.jpg";
 import ally_robot from "../assets/alliance_robot.jpg";
-import attatch_climb from "../assets/attatching_climb.jpg";
+import attatch_climb from "../assets/attaching_climb.jpg";
 
 function Gallery() {
   return (
