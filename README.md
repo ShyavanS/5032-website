@@ -29,11 +29,11 @@ Final release: **Aug 31st**
 
 #### What will go on each page
 
-- [ ] Homepage
+- [x] Homepage
 
   - [x] Picture of the team
   - [x] Blurb about what FIRST is
-  - [ ] Countdown to events
+  - [x] Countdown to events
   - [x] Social media in the footer
 
 - [x] About our team
@@ -62,11 +62,13 @@ Final release: **Aug 31st**
 
 #### Things that need to be done by Jan 4th
 
-- [ ] Homepage
+- [x] Homepage
 - [x] About
+- [ ] History
 - [x] Sponsors
 - [x] Calendar
 - [ ] Gallery
+- [x] Announcements
 
 #### Completed
 
