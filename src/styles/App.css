@@ -15,10 +15,6 @@
 
 .App-header {
   background: #0d1d45;
-  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #0d1d45 30%, #5894bf 200%);
-  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #0d1d45 30%, #5894bf 200%);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
