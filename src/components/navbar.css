@@ -18,6 +18,12 @@
   font-weight: 700;
 }
 
+/* Make icons not as close to text */
+.topnav i {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
 /* Add an active class to highlight the current page */
 
 /* Hide the link that should open and close the topnav on small screens */

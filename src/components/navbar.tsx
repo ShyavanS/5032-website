@@ -5,16 +5,17 @@ function Navbar() {
   return (
     <div className='topnav' id='myTopnav'>
       <a href='/' className='active'>
-      <i className="fa fa-home " aria-hidden="true"></i>
+      <i className="fa fa-home" aria-hidden="true"></i>
         Home
       </a>
-      {/* <a href="#news">News</a> */}
+      <a href='/sponsors'>
       <i className="fa fa-star" aria-hidden="true"></i>
-      <a href='/sponsors'>Sponsors</a>
+        Sponsors
+      </a>
       <div className='dropdown'>
         <button className='dropbtn'>
           <i className="fa fa-info-circle" aria-hidden="true"></i>
-          About 
+          About
           <i className='fa fa-caret-down'></i>
         </button>
         <div className='dropdown-content'>
@@ -25,9 +26,9 @@ function Navbar() {
       </div>
       <div className='dropdown'>
         <button className='dropbtn'>
-          <i className="fa fa-newspaper" aria-hidden="true"></i>
+          <i className="fa fa-newspaper-o" aria-hidden="true"></i>
           Updates 
-          <i className='fa fa-caret-down '></i>
+          <i className='fa fa-caret-down'></i>
         </button>
         <div className='dropdown-content'>
           <a href='/calendar'>Calendar</a>
