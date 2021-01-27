@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "../assets/logo.svg";
+import team from "../assets/teamphoto.jpg"
 import "../styles/home.css";
-//import team from "../assets/teamphoto.jpg"
 import "../components/navbar.css";
 import "@nilevia/count-down-timer-react/dist/index.css";
 const { CountDownDaily } = require("@nilevia/count-down-timer-react");
@@ -35,22 +35,12 @@ function Home() {
         <p></p>
         <br></br>
       </header>
-      {/*<h1>Team 5032</h1>
-      <img src={team} width="50%" alt="The Team"></img>
+      <h1>TEAM 5032</h1>
+      <img src={team} width="50%" alt="Team Photo"></img>
       <h2>About FIRST</h2>
-      <p>Replace this blurb later with one that isn't copy paste from FIRST site</p>
-      <p>
-        <i>FIRST</i> <b>F</b>or <b>I</b>nspiration and <b>R</b>ecognition of <b>S</b>cience and <b>T</b>echnology) was founded in 1989 to inspire young people's interest and participation in science and technology. Based in Manchester, NH, the 501(c)(3) not-for-profit public charity designs accessible, innovative programs that motivate young people to pursue education and career opportunities in science, technology, engineering, and math, while building self-confidence, knowledge, and life skills.
-      <br></br>
-        <p></p>
-        <i>FIRST</i> is <b>More Than Robots</b>. <i>FIRST</i> participation is proven to encourage students to pursue education and careers in STEM-related fields, inspire them to become leaders and innovators, and enhance their 21<sup>st</sup> century work-life skills.
-      </p>
-      <br></br>
-      <p></p>
-      <br></br>
-      <p></p>
-      <br></br>
-      <p></p>*/}
+      FRC Team 5032 is Meadowvale Secondary School’s robotics team, located in Mississauga, Ontario. Since our establishment in 2014, we annually compete in the First Robotics Competition. Our continued growth and success over the past seven years is a reflection of the unquantifiable effort put forth by our members, mentors, and sponsors. Their support allows the team to create a positive environment for students to participate in STEM. 
+
+      The team continues to work on our short and long term goals by assisting our local middle school’s FIRST Lego League Team and engaging with our school’s student body. Our beliefs reflect FIRST’s mission as we work towards providing children and youth the opportunity to experience the creative world of STEM.
     </div>
   );
 }

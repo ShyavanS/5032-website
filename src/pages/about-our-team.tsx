@@ -4,7 +4,7 @@ import "../styles/about-our-team.css";
 function About(): JSX.Element {
   return (
     <div className='AboutOurTeam'>
-      <h1 className='Title'>About Us</h1>
+      <h1 className='Title'>ABOUT US</h1>
       <hr className='ruler'></hr>
       <p className='description'>
         Team 5032 is Meadowvale Secondary School’s robotics team, located in Mississauga, Ontario. Since our establishment in 2014, we annually compete in the First Robotics Competition. Our accomplishments include competing in the FRC provincial competition (2017) and finishing in second place for the FRC Humber College competition (2020).
