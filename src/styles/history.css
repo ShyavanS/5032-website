@@ -1,12 +1,19 @@
 /* CSS Formatting for Bulleted List */
 
-li {
+dl {
     display: list-item;
-    list-style-type: circle;
+    list-style-type: none;
     text-align: left;
     margin-top: 1em;
     margin-bottom: 1em;
     margin-left: 0em;
     margin-right: 0;
     padding-left: 40px;
+}
+
+/* CSS Formatting for Timeline */
+
+.Timeline {
+    text-align: justify;
+    margin: 1rem;
 }

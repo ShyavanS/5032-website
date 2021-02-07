@@ -1,30 +1,21 @@
 import React from "react";
-import logo from "../assets/logo.svg";
+// import logo from "../assets/logo.svg";
 import team from "../assets/teamphoto.jpg"
 import "../styles/home.css";
 import "../components/navbar.css";
-import "@nilevia/count-down-timer-react/dist/index.css";
-const { CountDownDaily } = require("@nilevia/count-down-timer-react");
+// import "@nilevia/count-down-timer-react/dist/index.css";
+// const { CountDownDaily } = require("@nilevia/count-down-timer-react");
 
 function Home() {
   return (
     <div className='Home'>
-      <header className='App-header'>
+      {/* <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
         <p>Coming Soon!</p>
         <p className='Countdowns'>
-          FRC Kickoff in...
-          <CountDownDaily
-            endDate={"2021-01-04T12:00:00.000-05:00"}
-            dayAffix='day(s)'
-            hourAffix='hr(s)'
-            minutesAffix='min(s)'
-            secondAffix='sec(s)'
-            className='light-blue bold font-muli-20'
-          />
           Website's first release in...
           <CountDownDaily
-            endDate={"2021-01-29T00:00:00.000-05:00"}
+            endDate={"2021-02-28T00:00:00.000-05:00"}
             dayAffix='day(s)'
             hourAffix='hr(s)'
             minutesAffix='min(s)'
@@ -32,15 +23,23 @@ function Home() {
             className='light-blue bold font-muli-20'
           />
         </p>
-        <p></p>
-        <br></br>
-      </header>
+      </header> */}
       <h1>TEAM 5032</h1>
-      <img src={team} width="50%" alt="Team Photo"></img>
+      <img src={team} width="50%" alt="The Team"></img>
+      <p>
+        Team 5032 annually competes in the First Robotics competition where we build a 57 kg robot over a 6 week period to compete in the year’s game. The game and its theme changes annually, however, it usually contains an autonomous and teleoperated period.
+      </p>
       <h2>About FIRST</h2>
-      FRC Team 5032 is Meadowvale Secondary School’s robotics team, located in Mississauga, Ontario. Since our establishment in 2014, we annually compete in the First Robotics Competition. Our continued growth and success over the past seven years is a reflection of the unquantifiable effort put forth by our members, mentors, and sponsors. Their support allows the team to create a positive environment for students to participate in STEM. 
-
-      The team continues to work on our short and long term goals by assisting our local middle school’s FIRST Lego League Team and engaging with our school’s student body. Our beliefs reflect FIRST’s mission as we work towards providing children and youth the opportunity to experience the creative world of STEM.
+      <p>
+        FIRST, which stands For Inspiration and Recognition of Science and Technology, is an international non-profit organization that provides children, youth, and adults the opportunity to experience various STEM fields in an inclusive environment. The organization encourages children and youth to become leaders and innovators within the STEM community while following Gracious Professionalism. FIRST comprises 5 different programs: FIRST Lego League Discover (ages 4-6), FIRST Lego League Explore (ages 6-10), FIRST Lego League Challenge (ages 9-14), FIRST Tech Challenge (grades 7-12), and FIRST Robotics Competition (grades 8-12).
+      </p>
+      <p>Learn more about FIRST at <a className="Links" href="https://www.firstinspires.org">https://www.firstinspires.org</a>.</p>
+      <p>Learn more about FRC at <a className="Links" href="https://www.firstinspires.org/robotics/frc">https://www.firstinspires.org/robotics/frc</a>.</p>
+      <br></br>
+      <p></p>
+      <br></br>
+      <p></p>
+      <br></br>
     </div>
   );
 }

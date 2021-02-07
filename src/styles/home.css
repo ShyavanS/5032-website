@@ -1,0 +1,11 @@
+.Links {
+    color: #0d1d45;
+}
+
+.Links:hover {
+    color: #5894bf;
+}
+
+.Links:active {
+    color: #44256a;
+}
