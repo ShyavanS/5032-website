@@ -1,0 +1,21 @@
+.imgleft {
+    float: left;
+    padding: 20px;
+    width: 20%;
+}
+
+.textleft {
+    text-align: left;
+    margin-left: 50px;
+}
+
+.imgright {
+    float: right;
+    padding: 20px;
+    width: 20%;
+}
+
+.textright {
+    text-align: right;
+    margin-right: 50px;
+}
