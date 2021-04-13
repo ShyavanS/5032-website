@@ -74,12 +74,6 @@ function History(): JSX.Element {
           <dt>&bull;Waterloo Regional - March 20 - March 22</dt>
           <dd>&bull;Rank 29 → 4-9-0</dd>
         </dl>
-        <p></p>
-        <br></br>
-        <p></p>
-        <br></br>
-        <p></p>
-        <br></br>
       </div>
     </div>
   );

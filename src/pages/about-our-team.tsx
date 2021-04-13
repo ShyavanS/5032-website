@@ -49,11 +49,6 @@ function About(): JSX.Element {
       <p className='description'>
         The mentors are the foundation of our team. They help us organize events and help us manage the team’s finances and materials. They also teach us many skills like programming, machining and designing throughout the year that carry over to the build season and allow us to build a highly competitive robot.
       </p>
-      <br></br>
-      <p></p>
-      <br></br>
-      <p></p>
-      <br></br>
     </div>
   );
 }

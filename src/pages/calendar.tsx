@@ -37,11 +37,6 @@ function Calendar(): JSX.Element {
           }}
         />
       </div>
-      <p></p>
-      <br></br>
-      <p></p>
-      <br></br>
-      <p></p>
     </div>
   );
 }

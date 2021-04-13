@@ -35,11 +35,6 @@ function Home() {
       </p>
       <p>Learn more about FIRST at <a className="Links" href="https://www.firstinspires.org">https://www.firstinspires.org</a>.</p>
       <p>Learn more about FRC at <a className="Links" href="https://www.firstinspires.org/robotics/frc">https://www.firstinspires.org/robotics/frc</a>.</p>
-      <br></br>
-      <p></p>
-      <br></br>
-      <p></p>
-      <br></br>
     </div>
   );
 }
