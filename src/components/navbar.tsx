@@ -1,9 +1,16 @@
 import React from "react";
 import "./navbar.css";
 
+var click = true;
+
 function Navbar() {
   return (
     <div className='topnav' id='myTopnav'>
+      <div className='icon'>
+        <button onClick={mobileNav} className='dropbtn'>
+          <i className="fa fa-bars" aria-hidden="true"></i>
+        </button>
+      </div>
       <a href='/' className='active'>
       <i className="fa fa-home" aria-hidden="true"></i>
         Home
@@ -38,6 +45,17 @@ function Navbar() {
       </div>
     </div>
   );
+}
+
+function mobileNav() {
+  var nav = document.getElementById('myTopnav')
+  if (click) {
+    nav?.classList.add('responsive')
+    click = false;
+  } else {
+    nav?.classList.remove('responsive')
+    click = true;
+  }
 }
 
 export default Navbar;

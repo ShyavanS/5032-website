@@ -41,7 +41,8 @@
 
 /* Style the dropdown button to fit inside the topnav */
 
-.dropdown .dropbtn {
+.dropdown .dropbtn,
+.icon .dropbtn {
   font-size: 17px;
   font-weight: 700;
   border: none;
@@ -99,11 +100,11 @@
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 
 @media screen and (max-width: 600px) {
-  .topnav a:not(:first-child),
+  .topnav a,
   .dropdown .dropbtn {
     display: none;
   }
-  .topnav a.icon {
+  .topnav div.icon {
     float: right;
     display: block;
   }
@@ -115,7 +116,7 @@
   .topnav.responsive {
     position: relative;
   }
-  .topnav.responsive a.icon {
+  .topnav.responsive div.icon {
     position: absolute;
     right: 0;
     top: 0;
