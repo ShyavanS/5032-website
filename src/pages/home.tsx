@@ -33,8 +33,8 @@ function Home() {
       <p>
         FIRST, which stands For Inspiration and Recognition of Science and Technology, is an international non-profit organization that provides children, youth, and adults the opportunity to experience various STEM fields in an inclusive environment. The organization encourages children and youth to become leaders and innovators within the STEM community while following Gracious Professionalism. FIRST comprises 5 different programs: FIRST Lego League Discover (ages 4-6), FIRST Lego League Explore (ages 6-10), FIRST Lego League Challenge (ages 9-14), FIRST Tech Challenge (grades 7-12), and FIRST Robotics Competition (grades 8-12).
       </p>
-      <p>Learn more about FIRST at <a className="Links" href="https://www.firstinspires.org">https://www.firstinspires.org</a>.</p>
-      <p>Learn more about FRC at <a className="Links" href="https://www.firstinspires.org/robotics/frc">https://www.firstinspires.org/robotics/frc</a>.</p>
+      <p>Learn more about FIRST at <a className="Links" href="https://www.firstinspires.org" target="_blank" rel="noreferrer">https://www.firstinspires.org</a>.</p>
+      <p>Learn more about FRC at <a className="Links" href="https://www.firstinspires.org/robotics/frc" target="_blank" rel="noreferrer">https://www.firstinspires.org/robotics/frc</a>.</p>
     </div>
   );
 }
