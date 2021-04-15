@@ -12,10 +12,20 @@
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
   font-weight: 700;
+}
+
+.topnav .spon {
+  padding: 14px 16px;
+}
+
+.topnav img {
+  padding-top: 7px;
+  padding-bottom: 3px;
+  padding-left: 14px;
+  padding-right: 14px;
 }
 
 /* Make icons not as close to text */
@@ -100,7 +110,7 @@
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 
 @media screen and (max-width: 600px) {
-  .topnav a,
+  .topnav a:not(:first-child),
   .dropdown .dropbtn {
     display: none;
   }

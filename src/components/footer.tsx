@@ -16,6 +16,8 @@ function Footer() {
               <a
                 href='https://www.instagram.com/frc5032/'
                 className='social-icon'
+                target="_blank"
+                rel="noreferrer"
               >
                 <i className='fa fa-instagram'></i>
               </a>
@@ -25,6 +27,8 @@ function Footer() {
               <a
                 href='https://twitter.com/frc5032'
                 className='social-icon'
+                target="_blank"
+                rel="noreferrer"
               >
                 <i className='fa fa-twitter'></i>
               </a>
