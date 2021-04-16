@@ -29,7 +29,7 @@ function Navbar() {
         <div className='dropdown-content'>
           <a href='/about-our-team'>Our Team</a>
           <a href='/who-we-are'>Who we are</a>
-          <a href='/history'>History</a>
+          <a href='https://www.thebluealliance.com/team/5032'>History</a>
         </div>
       </div>
       <div className='dropdown'>
