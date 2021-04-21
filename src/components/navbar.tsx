@@ -28,8 +28,8 @@ function Navbar() {
         </button>
         <div className='dropdown-content'>
           <a href='/about-our-team'>Our Team</a>
-          <a href='/who-we-are'>Who we are</a>
-          <a href='https://www.thebluealliance.com/team/5032'>History</a>
+          <a href='/who-we-are'>Who We Are</a>
+          <a href='https://www.thebluealliance.com/team/5032' target="_blank" rel="noreferrer">History</a>
         </div>
       </div>
       <div className='dropdown'>
@@ -41,7 +41,7 @@ function Navbar() {
         <div className='dropdown-content'>
           <a href='/calendar'>Calendar</a>
           {/* <a href='/announcements'>Announcements</a> */}
-          <a href='https://photos.app.goo.gl/Ejxi6MULa1xhBurbA'>Gallery</a>
+          <a href='https://photos.app.goo.gl/Ejxi6MULa1xhBurbA' target="_blank" rel="noreferrer">Gallery</a>
         </div>
       </div>
     </div>
