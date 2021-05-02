@@ -10,12 +10,20 @@ import "../styles/sponsors.css";
 function Sponsors() {
   return (
     <div className='Sponsors'>
-      <img src={thk} alt="THK Logo" />
-      <img src={conovey} alt="Conovey Logo" />
-      <img src={smc} alt="SMC Logo" />
-      <img src={gm} alt="GM Logo" />
-      <img src={matman} alt="MatMan Logo" />
-      <img src={starmill} alt="Starmill Manufacturing Logo" />
+      <h1>Sponsors</h1>
+      <div className="column">
+        <div className="row">
+          <img src={gm} alt="GM Logo" />
+          <img src={conovey} alt="Conovey Logo" />
+          <img src={matman} alt="MatMan Logo" />   
+          
+        </div>
+        <div className="row">
+          <img src={smc} alt="SMC Logo" />
+          <img src={thk} alt="THK Logo" />
+          <img src={starmill} alt="Starmill Manufacturing Logo" />
+        </div>
+      </div>
     </div>
   );
 }

@@ -1,0 +1,16 @@
+.row {
+    display: block;
+    padding: 0 4px;
+  }
+  
+  /* Create three equal columns that sits next to each other */
+  .column {
+    padding: 0 4px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    max-width: 33%;
+    max-height: 20rem;
+  }
