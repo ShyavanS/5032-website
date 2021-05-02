@@ -7,10 +7,8 @@ import eleclead from "../assets/eleclead.jpg";
 import deslead from "../assets/deslead.jpg";
 import leadmentor from "../assets/leadmentor.jpg";
 import engmentor from "../assets/engmentor.jpg";
-// import busmentor from "../assets/busmentor.jpg"; this is a placeholder, the file doesn't exist yet.
+import busmentor from "../assets/busmentor.jpg";
 import "../styles/who-we-are.css";
-
-var busmentor = ""; // this is a placeholder, the file doesn't exist yet.
 
 function WhoWeAre(): JSX.Element {
   return (
