@@ -1,6 +1,8 @@
 # FRC 5032 Website
 
-## WIP
+## WIP - Abandoned
+
+This site is no longer being maintained, but it is kept for archive purposes. This was the last build of the website I worked on before I left the team and they focused on more important issues that arose as a result of returning to a less functional club from the pandemic. The website was replaced with a linktree as the server hosting the website was not maintained properly and it was not a priority to get it fixed.
 
 This website is currently a work in progress. It may not look visually appealing or work as attended.
 
